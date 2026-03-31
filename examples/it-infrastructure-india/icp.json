@@ -1,0 +1,34 @@
+{
+  "name": "IT Infrastructure India — Enterprise & Education",
+  "industry": ["IT infrastructure", "network solutions", "systems integration", "structured cabling"],
+  "location": ["Mumbai", "Pune", "Nagpur", "Nashik", "Aurangabad", "Maharashtra", "India"],
+  "company_size": "11-500",
+  "decision_maker_titles": [
+    "IT Manager", "CTO", "Head of IT", "Purchase Manager",
+    "VP Technology", "Director IT", "Systems Administrator",
+    "Network Engineer", "CEO", "Founder"
+  ],
+  "pain_points": [
+    "network downtime affecting productivity",
+    "smart classroom ICT setup",
+    "SD-WAN deployment for branch offices",
+    "structured cabling for new offices/campuses",
+    "CCTV and access control",
+    "Wi-Fi dead zones in large facilities",
+    "data centre build-out"
+  ],
+  "buying_signals": [
+    "office expansion or relocation",
+    "digital transformation initiative",
+    "new campus or branch opening",
+    "school ICT project tender",
+    "smart city or government scheme participation",
+    "hiring IT staff",
+    "job postings for network engineers"
+  ],
+  "exclude": [
+    "companies with <10 employees",
+    "residential addresses",
+    "personal email domains"
+  ]
+}
